@@ -1,4 +1,4 @@
-
+OBS Studio for macOS advanced Automation: subtitle-generator & lens-flare is the best OBS Studio for macOS automation, featuring subtitle-generator and lens-flare. Safe,
 
 
 
